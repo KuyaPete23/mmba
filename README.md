@@ -9,8 +9,11 @@ Files:
 1. IPP Pitcher Perfect 1.3.pbix
 2. IPP Pitcher Perfect 1.3.pdf
 3. IPP_dataset_github.xlsx
-4. Part 1 Show - ABrewmasterInHisElement.ppsx
-5. Part 2 Show - HopHopHop.ppsx
+4. Part 1 Show - ABrewmasterInHisElement.ppsx (Apprrox. 247 MB, Download Link --> https://1drv.ms/p/c/b1612851f28e3e87/IQC5P-hwEubtT5MAGXpQgoQnAZUhRp4QKtniZhfdrepGY2w?e=egcyDd)
+
+5. Part 2 Show - HopHopHop.ppsx (Approx. 89MB, Download Link --> https://1drv.ms/p/c/b1612851f28e3e87/IQDJx3no_BAtRLC5Njvq8q-QARIVxNHWt7Y4tmOhvHDa_IE?e=g4SmCB
 6. WAC-ZuñigaGumpal-ReinBeerOnceYouHopYouCantStop.pdf
+
+Misc: Live Interactive Dashboard, Link --> https://app.powerbi.com/view?r=eyJrIjoiYmZlY2NiMWUtNThmNi00YzVhLTkxZGUtZDk3YzRlOGI5ODFmIiwidCI6ImFlYjc0NWU2LTgxNjYtNGY4Zi05MjMzLTE3OWU4MTA5YzQ5ZSIsImMiOjEwfQ%3D%3D&pageName=464b78d9bcee937e2540
 
 
